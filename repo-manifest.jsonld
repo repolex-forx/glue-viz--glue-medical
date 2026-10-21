@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-medical/commit/2cd61bf8d90ba371f1cf8b379dc323ff8f41d180",
       "git:hexsha": "2cd61bf8d90ba371f1cf8b379dc323ff8f41d180",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:42:54.946034+00:00"
     },
     {
       "@id": "https://repolex.ai/r/glue-viz/glue-medical/commit/aebf2174e4bb89df87ed8609b147d3f2a86770a8",
